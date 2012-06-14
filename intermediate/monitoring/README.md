@@ -5,7 +5,9 @@ This application demonstrates managing and monitoring Spring Integration Applica
 
 It was used in the webinar here TBD.
 
-For help please see the Spring Integration documentation:
+--------------------------------------------------------------------------------
+
+For help please take a look at the Spring Integration documentation:
 
 http://www.springsource.org/spring-integration
 
